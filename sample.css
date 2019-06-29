@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+.jumbotron {    
+    background:url(img/maintop.jpg)
+    center no-repeat; 
+    background-size: cover;
+}
+
+#about {
+    background-color: white;
+}
+
+.about img{
+    width: 100%;
+}
+
+footer{
+    background-color: #C2EEFF;
+}
